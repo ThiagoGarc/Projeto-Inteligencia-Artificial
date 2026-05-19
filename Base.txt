@@ -1,4 +1,0 @@
-O tamanho do arquivo com a base excede os limites permitidos pelo GitHub, portanto, optamos por inserir o link da base utilizada neste TXT.
-
-Link:
-https://huggingface.co/datasets/neuralsorcerer/student-performance
