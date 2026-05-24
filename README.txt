@@ -1,3 +1,6 @@
+Apresentação:
+https://youtu.be/B2Qfy8MsxF8
+
 Repositório:
 https://github.com/ThiagoGarc/Projeto-Inteligencia-Artificial
 
